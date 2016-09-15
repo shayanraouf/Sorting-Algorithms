@@ -97,29 +97,7 @@ void InitArray(vector<int> &array, int randMax)
 		array[i] = pool[spot];
 		pool.erase(pool.begin() + spot);
 	}
-	/*int size = array.size();
 
-	for (int i = 0; i < size;)
-	{
-		int tmp = (randMax == -1) ? rand() : rand() % randMax;
-		bool hit = false;
-		for (int j = 0; j < i; j++)
-		{
-			if (array[j] == tmp)
-			{
-				hit = true;
-				break;
-			}
-		}
-
-		if (hit)
-		{
-			continue;
-		}
-
-		array[i] = tmp;
-		i++;
-	}*/
 }
 
 // Function to Print Array
