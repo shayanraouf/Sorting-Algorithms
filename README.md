@@ -1,2 +1,2 @@
 # Sorting-Algorithms-
-C++ Implementation of the following sorting algorithms: MergeSort, MergeSort(Improved Version), QuickSort, SelectionSort, BubbleSort
+[Project Description] (https://github.com/shayanraouf/Sorting-Algorithms-/blob/master/Lab4_342.pdf)
